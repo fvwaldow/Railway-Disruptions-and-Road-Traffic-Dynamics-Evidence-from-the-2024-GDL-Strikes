@@ -8,9 +8,9 @@ The analysis separates strike effects from regular traffic rhythms with a two-pa
 
 ## Main findings
 
-- Road traffic rose during all four strike windows, most strongly during the first strike in January: roughly 12–13% for freight and 4–9% for passenger vehicles.
+- Road traffic rose during all four strike windows, most strongly during the first strike in January: roughly 12-13% for freight and 4–9% for passenger vehicles.
 - Effects were most pronounced on motorways, consistent with their role in absorbing diverted long-distance freight and regional commuting.
-- Increases shrank across successive strikes, pointing to adaptation by travellers and logistics operators — and to the shorter duration of the March strikes.
+- Increases shrank across successive strikes, pointing to adaptation by travellers and logistics operators
 
 ## Data
 
@@ -26,4 +26,4 @@ Strike windows are hard-coded in the notebook, with separate start and end times
 
 ## Limitations
 
-The decomposition uses aggregate traffic per station rather than station-specific seasonal and trend components, and does not control for weather, roadworks, or concurrent events — the black-ice event of 17 January 2024, visible as a sharp drop in the raw series, is one example of such confounding. Results should be read as a preliminary, descriptive assessment of mode substitution rather than a causal estimate.
+The decomposition uses aggregate traffic per station rather than station-specific seasonal and trend components, and does not control for weather, roadworks, or concurrent events like the black-ice event of 17 January 2024, visible as a sharp drop in the raw series, is one example of such confounding. Results should be read as a preliminary, descriptive assessment of mode substitution rather than a causal estimate.
