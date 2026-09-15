@@ -1,7 +1,5 @@
 # Railway Disruptions and Road Traffic Dynamics: Evidence from the 2024 GDL Strikes
 
-Frederik von Waldow
-
 ## Overview
 
 This project quantifies how the German Train Drivers' Union (GDL) strikes of January–March 2024 shifted traffic from rail to road. Using hourly counting-station data from Germany's motorway and federal road network, it asks to what extent rail service disruptions produce measurable increases in road traffic, and how those effects vary by strike, road type, and transport purpose (passenger vs. freight).
